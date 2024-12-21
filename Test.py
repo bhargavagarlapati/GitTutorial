@@ -1,19 +1,8 @@
-def fib(n):
-    if n == 0:
-        return 0
-    elif n == 1:
-        return 1
-    else:
-        return fib(n-1) + fib(n-2)
+def m1(s):
+    print(f"Hi {s}")
 
-def fact(n):
-    if n == 0:
-        return 1
-    else:
-        return n * fact(n-1)
-
-print(fib(9))
-print(fact(9))
+def m2(s):
+    print(f"Hello {s}")
 
 
 
