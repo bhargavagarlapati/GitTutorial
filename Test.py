@@ -7,3 +7,6 @@ def m2():
 def m3():
     print("This is m3 method")
 
+def m4():
+    print("This is m4 method in main branch")
+
