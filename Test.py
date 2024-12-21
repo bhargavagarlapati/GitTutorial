@@ -1,12 +1,10 @@
-def m1():
-    print("This is m1 method")
+def fib(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fib(n-1) + fib(n-2)
 
-def m2():
-    print("This is m2 method")
-
-def m3():
-    print("This is m3 method")
-
-def m4():
-    print("This is m4 method in main branch")
+print(fib(10))
 
