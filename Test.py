@@ -1,3 +1,6 @@
 def m1():
-    print("Hi how are you")
+    print("This is m1 method")
+
+def m2():
+    print("This is m2 method")
 
