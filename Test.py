@@ -3,6 +3,3 @@ def m1(s):
 
 def m2(s):
     print(f"Hello how are you {s}")
-
-
-
