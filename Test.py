@@ -10,6 +10,9 @@ def m3(s):
 def m4(s):
     print(f"Hello darling {s}")
 
+def m5(s):
+    print(f"Hello darling {s}")
+
 
 
 
