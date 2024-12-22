@@ -13,6 +13,9 @@ def m4(s):
 def m5(s):
     print(f"Hello darling {s}")
 
+def m6(s):
+    print(f"Hello darling {s}")
+
 
 
 
