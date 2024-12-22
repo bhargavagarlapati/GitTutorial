@@ -7,5 +7,12 @@ def m2(s):
 def m3(s):
     print(f"Hello friend {s}")
 
+def m4(s):
+    print(f"Hello darling {s}")
+
+def m5(s):
+    print(f"Hello darling {s}")
+
+
 
 
